@@ -1,8 +1,8 @@
 
 # Variables in Python
 
-first_name = 'PRAKASH'
-last_name = 'SENAPATI'
+first_name = 'Venkata Sai Kumar'
+last_name = 'Gundu'
 country = 'HYD'
 city = 'TELENGANA'
 age = 40087
