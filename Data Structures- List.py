@@ -30,7 +30,7 @@ e = i+2j
 # 11. pop() by default it will remove  & print the last element value 
 #     pop(3) it will remove only 3rd index position value  
 #     pop() is index wise elimination 
-# 12. remove() not index 
+# 12. remove() not index elimination it will be value wise elimination.
 
 '''
 l =[] 
